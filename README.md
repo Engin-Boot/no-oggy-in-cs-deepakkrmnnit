@@ -8,7 +8,7 @@ This program intends to remove strings containing 'oggy' from a list of strings.
 
 ## Method
 
-Successfully removed "oggy".
+removed "oggy".
 
 ## Completion
 

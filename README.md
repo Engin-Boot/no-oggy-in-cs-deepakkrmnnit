@@ -4,9 +4,12 @@
 ## Intention
 
 This program intends to remove strings containing 'oggy' from a list of strings.
+This program is
 
 ## Method
 
-The code doesn't work according to the intention. Make it succeed.
+Sucessfully removed "oggy".
 
-Don't forget to update this file after fixing the code.
+## Completion
+
+Assignment completed.
